@@ -8,4 +8,4 @@ Our database also contains the history of each vehicle so that it can be tracked
 
 Hope you're gonna like our project.
 
-Made with 💜 by @unknownpot & @pulkitpandey09
+Made with 💜 by @unknownpot (Sagar Ranjan) & @Pulkit-Pandey-09 (Pulkit Pandey)
